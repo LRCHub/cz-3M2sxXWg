@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Cool running",
+  "base_artist": "Mall Boyz",
+  "createdAt": "2025-12-02T07:58:26.017162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cool Running",
+      "artist": "Africa Unite",
+      "has_synced": true,
+      "path": "select/01_Cool_Running_Africa_Unite.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cool Running",
+      "artist": "Boz Scaggs",
+      "has_synced": false,
+      "path": "select/02_Cool_Running_Boz_Scaggs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cool running (feat. Tohji, gummyboy & SEEDA)",
+      "artist": "Mall Boyz",
+      "has_synced": false,
+      "path": "select/03_Cool_running_(feat._Tohji,_gummyboy_&_SEEDA)_Mall_Boyz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cool running (feat. Tohji, gummyboy & SEEDA)",
+      "artist": "Mall Boyz",
+      "has_synced": true,
+      "path": "select/04_Cool_running_(feat._Tohji,_gummyboy_&_SEEDA)_Mall_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Can See Clearly Now (from Cool Running)",
+      "artist": "Jimmy Cliff",
+      "has_synced": true,
+      "path": "select/05_I_Can_See_Clearly_Now_(from_Cool_Running)_Jimmy_Cliff.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cool Running (Shep Pettibone Remix)",
+      "artist": "Boz Scaggs",
+      "has_synced": false,
+      "path": "select/06_Cool_Running_(Shep_Pettibone_Remix)_Boz_Scaggs.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cool running",
+      "artist": "Mall Boyz, Tohji, gummyboy, SEEDA",
+      "has_synced": false,
+      "path": "select/pl_01_Cool_running_Mall_Boyz,_Tohji,_gummyboy,_SEEDA.txt"
+    }
+  ]
+}
